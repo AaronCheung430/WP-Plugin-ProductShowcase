@@ -1,7 +1,7 @@
 # WP-Plugin-ProductShowcase
 This is a modification plugin/theme for WordPress from the **[Sydney](https://athemes.com/theme/sydney/)** theme by athemes.
 
-Modified to show the products in an easy way.
+The main modification is to display the product in a simple way.
 
 ## License
 
